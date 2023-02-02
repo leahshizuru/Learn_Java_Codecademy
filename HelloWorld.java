@@ -1,3 +1,5 @@
+// my first program in Java
+
 public class HelloWorld {
   
   public static void main(String[] args) {
